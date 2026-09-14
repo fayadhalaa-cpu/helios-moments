@@ -154,6 +154,16 @@ are processed.
 
 When `both` is selected, two output files are created automatically.
 
+### Start a new run
+
+```bash
+python scripts/run_moments.py \
+    --probe 2 \
+    --start "1976-100 00:00:00" \
+    --end "1976-120 23:59:59" \
+    --method ml \
+    --output moments_ml.csv
+
 ### Resuming an interrupted calculation
 
 For long calculations, the `--resume` option can be used to continue an
