@@ -91,8 +91,8 @@ The calculation uses data from the following Helios instruments:
 
 - **E1 plasma experiment:** three-dimensional ion velocity distribution
   functions (VDFs).
-- **E2 magnetic-field experiment:** 4 Hz magnetic-field measurements.
-- **E3 magnetic-field experiment:** 6 s magnetic-field measurements.
+- **E2 magnetic field experiment:** 4 Hz magnetic field measurements.
+- **E3 magnetic field experiment:** 6 s magnetic field measurements.
 
 The Helios data are publicly available from the UC Berkeley Space Sciences
 Laboratory Helios data archive:
@@ -124,7 +124,7 @@ H2_6S=/path/to/helios2/e3/data
 H2_4HZ=/path/to/helios2/e2/data
 ```
 
-`H1` and `H2` refer to Helios 1 and Helios 2, while `6S` and `4HZ` refer to the E3 and E2 magnetic-field datasets, respectively. The paths should point to the top-level directories containing each dataset.
+`H1` and `H2` refer to Helios 1 and Helios 2, while `6S` and `4HZ` refer to the E3 and E2 magnetic field datasets, respectively. The paths should point to the top-level directories containing each dataset.
 
 ## Usage
 
