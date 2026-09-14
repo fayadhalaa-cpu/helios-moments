@@ -1,0 +1,10 @@
+# VDF directories
+H1_VDF=/path/to/helios1/vdf/data
+H2_VDF=/path/to/helios2/vdf/data
+
+# Magnetic-field directories
+H1_6S=/path/to/helios1/e3/data
+H1_4HZ=/path/to/helios1/e2/data
+
+H2_6S=/path/to/helios2/e3/data
+H2_4HZ=/path/to/helios2/e2/data

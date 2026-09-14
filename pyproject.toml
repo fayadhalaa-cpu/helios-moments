@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "helios-moments"
+version = "0.1.0"
+description = "Python tools for calculating moments from Helios proton VDFs"
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+helios_moments = ["training_data/*.pkl"]

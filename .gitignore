@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+logs/
+logs_regular/
+logs_tail/
+results/
+results_regular/
+notebooks/*.csv
+notebooks/*.pdf
+notebooks/magnetic_field_examples.ipynb
