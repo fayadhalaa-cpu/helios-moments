@@ -184,10 +184,10 @@ A summary of the available command-line options can be displayed with:
 python scripts/run_moments.py --help
 ```
 
-### Magnetic-field tools
+### Magnetic field tools
 
 The package also provides `get_magnetic_field` and `plot_magnetic_field`
-for retrieving and plotting the Helios E2 and E3 magnetic-field measurements.
+for retrieving and plotting the Helios E2 and E3 magnetic field measurements.
 
 Example usage is provided in
 [`notebooks/magnetic_field_examples.ipynb`](notebooks/magnetic_field_examples.ipynb).
