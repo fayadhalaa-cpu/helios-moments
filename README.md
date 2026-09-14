@@ -163,6 +163,7 @@ python scripts/run_moments.py \
     --end "1976-120 23:59:59" \
     --method ml \
     --output moments_ml.csv
+```
 
 ### Resuming an interrupted calculation
 
