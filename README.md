@@ -280,4 +280,3 @@ software in scientific work, please cite the associated publication.
 
 Citation information will be added here upon publication.
 
-## License
