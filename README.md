@@ -38,6 +38,7 @@ The main Python dependencies are:
 - pandas
 - Matplotlib
 - scikit-learn
+- numba
 
 These dependencies are installed automatically when the package is installed.
 
