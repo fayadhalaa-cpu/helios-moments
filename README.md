@@ -1,3 +1,5 @@
+Note: This package is under active development and may be updated as additional functionality and documentation are added.
+
 # Helios Moments
 
 **Helios Moments** is a Python package for calculating proton plasma moments from three-dimensional ion velocity distribution functions (VDFs) measured by the Helios E1 plasma experiment.
