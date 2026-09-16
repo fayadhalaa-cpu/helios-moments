@@ -14,6 +14,7 @@ dependencies = [
     "pandas",
     "matplotlib",
     "scikit-learn",
+    "numba",
 ]
 
 [tool.setuptools.packages.find]
